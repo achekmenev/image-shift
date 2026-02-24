@@ -1,4 +1,4 @@
-# Image shift
+# image-shift
 
 The program calculates the offset of one frame relative to the other. And for clarity, it shifts the second one to visually assess the accuracy. The idea is ingenious in its simplicity: shifting the function graph causes the Fourier coefficients to be multiplied by a phase that is linear in the shift. And then it's a matter of technique to factor it out. So, taking the inverse Fourier transform, we get a delta function. Its support is the desired displacement.
 
