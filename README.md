@@ -4,7 +4,7 @@ The program calculates the offset of one frame relative to the other. And for cl
 
 This is a proof of concept of the algorithm that can be used in video processing.
 
-## Examples
+## Examples (output, frame1, frame2)
 
 ![Sample output](images/i0.jpg)
 ![Sample input1](images/i1.jpg)
