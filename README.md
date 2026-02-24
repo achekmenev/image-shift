@@ -6,13 +6,17 @@ This is a proof of concept of the algorithm that can be used in video processing
 
 ## Examples
 
-![Sample output](images/img0.jpg)
-![Sample input1](images/img1.jpg)
-![Sample input2](images/img2.jpg)
+![Sample output](images/i0.jpg)
+![Sample input1](images/i1.jpg)
+![Sample input2](images/i2.jpg)
 
 ![Sample output](images/image0.jpg)
 ![Sample input1](images/image1.jpg)
 ![Sample input2](images/image2.jpg)
+
+![Sample output](images/img0.jpg)
+![Sample input1](images/img1.jpg)
+![Sample input2](images/img2.jpg)
 
 ## Usage
 
